@@ -32,7 +32,7 @@ class Dog extends Animal {
     }
 }
 
-// Contoh penggunaan class Cat
+
 $animal = new Animal("Harimau", "Karnivora");
 echo $animal->getInfo() ."\n";
 $cat = new Cat("Kitty");
